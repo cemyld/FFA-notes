@@ -1,15 +1,15 @@
 ---
 id: KboSDNpIShkOlDCJuWvZa
-title: Forro Dance Guide for Newcomers
+title: Newcomers
 desc: ''
-updated: 1698522575028
+updated: 1698522780356
 created: 1698521480041
 ---
 
 
 ## **Introduction**
 
-This guide aims to provide instructors with a structured approach to introducing newcomers to this captivating dance form. Our goal is to ensure each student feels welcomed, included, and leaves with a foundational understanding of forró.
+This guide aims to provide instructors with a structured approach to introducing newcomers to their baby steps in forró! Our goal is to ensure each student feels welcomed, included, and leaves with a foundational understanding of this dance.
 
 ---
 
