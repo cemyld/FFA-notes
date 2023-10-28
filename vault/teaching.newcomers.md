@@ -2,7 +2,7 @@
 id: KboSDNpIShkOlDCJuWvZa
 title: Forro Dance Guide for Newcomers
 desc: ''
-updated: 1698522012953
+updated: 1698522575028
 created: 1698521480041
 ---
 
@@ -13,119 +13,91 @@ This guide aims to provide instructors with a structured approach to introducing
 
 ---
 
-## **1. Remember the Broader Goal**
+### **1. The Broader Goal**
 
-- **Focus on Inclusivity:** Ensure newcomers feel self-conscious and welcomed.
-  - *Remember:* This is their first encounter with the group. Their experience determines their future involvement.
-  - *Aim:* They should feel accomplished and eager to return.
+- Understand that newcomers might feel self-conscious. A welcoming and friendly attitude is paramount.
+- This is their first interaction with the group; their experience will determine future involvement.
+- Prioritize making them feel welcomed and included.
+- Aim to teach them enough so they feel accomplished and eager to return.
 
----
+### **2. Introduction to Forró and Social Dancing**
 
-## **2. Introducing Forro and Social Dancing**
+- Briefly describe Forró and its origins.
+- Share about the group's nature: a non-professional, community-focused gathering aimed at friends teaching one another.
 
-- Briefly describe **forro** and its origins.
-- Share our group's story: A community of friends teaching each other, putting community over professionalism.
+### **3. Initiate with the 123 Count Marching**
 
----
+- Stress the rhythm and the concept of weight transfer. (Note: Define "weight transfer" in multiple ways for clarity.)
+- Over-emphasize the "marching" to accentuate weight transfer.
+- Verbally count the 123-pause rhythm to familiarize them.
 
-## **3. Start with Marching to the 123 Count**
+### **4. Introduce the Base 1 Steps**
 
-- Emphasize rhythm and weight transfer.
-- Clearly demonstrate the marching motion and rhythm.
-  
-> 💡 **Clara's Tip:** Exaggerate the “marching” motion to emphasize weight transfer.
+- Connect it to the marching movement but with slight variations in footwork.
 
----
+> 💡 **Clara's Tip:** Chant "forward and back, back and forward" as guidance.
 
-## **4. Introduce Base 1 Steps**
+- Dance in front of them for visual clarity, then observe if they can replicate independently.
 
-- Link it with the marching movement, but with different footwork.
-  
-> 💡 **Clara's Tip:** Chant “forward and back, back and forward” to guide them.
+### **5. Delve into the Concept of Leading/Following**
 
-- Dance along initially, then let them try independently.
+- Understand that this concept might be new for some.
+- In basic terms: leaders suggest moves, followers execute.
 
----
+> 💡 **Clara's Tip:** Initially explain the traditional roles (men lead, women follow), but emphasize our group's flexibility regarding roles.
 
-## **5. Concept of Leading/Following**
+- Recommend newcomers to stick to one role initially to avoid confusion.
 
-- Describe the roles of leader and follower.
-  
-> 💡 **Clara's Tip:** Introduce traditional roles but highlight our group's flexibility in switching roles.
+### **6. Introduce the Base 1 Hold**
 
-- For simplicity, advise newcomers to stick to one role initially.
+- Emphasize the back arm's importance and correct its improper placement.
+- Stagger feet for safety.
+- Discuss proximity comfort and demonstrate varying distances.
+- Distinguish between a "gripping closely" and a strong leading arm.
+- Allow them to dance to half a song in base 1. Discuss partner swapping.
+- Encourage spatial exploration.
+- Transition by explaining the typical starting position in dances.
 
----
+### **7. Introduce Base 2 Steps**
 
-## **6. Introduce Base 1 Hold**
+- Highlight its simplicity compared to Base 1.
+- Ensure smaller and more comfortable step-taking.
 
-- **Safety First:** Stagger feet to avoid stepping on toes.
-- Discuss proximity, emphasizing mutual comfort.
-- Train them on hand placements, and dance along with music.
+### **8. Introduce the Base 2 Hold**
 
----
+- Explain its purpose for open moves like spins.
+- Caution against excessive arm swinging.
+- Advocate for maintaining connection without thumb grips.
+- Execute hand connection exercises.
+- Switch partners occasionally for adaptability.
 
-## **7. Introduce Base 2 Steps**
+### **9. Transition from Base 1 to Base 2**
 
-- Describe it as an evolution of Base 1 with simpler steps.
-  
-> 💡 **Clara's Tip:** Encourage smaller steps initially.
+- Point out the specific moments for transitions.
 
----
+> 💡 **Clara's Tip:** Aid with counting and stopping cues.
 
-## **8. Introduce Base 2 Hold**
+- Breakdown simultaneous movements for clearer understanding.
 
-- Highlight it as an open hold, suitable for spins and turns.
-  
-> 💡 **Clara's Tip:** Ensure students maintain connection without gripping using thumbs.
+### **10. Transition from Base 2 to Base 1**
 
----
+- Emphasize the significance of the left foot (the "decision foot").
+- Describe the intricacies of changing holds.
 
-## **9. Switching Between Holds**
+### **11. Basic Spin (If Time Permits)**
 
-- Introduce transitioning techniques, starting with Base 1 to Base 2.
-  
-> 💡 **Clara's Tip:** Use cues like “aaaand stop” to guide them.
+- Present this as an optional fun activity.
+- Emphasize the partners' rotational dynamics in Forró.
 
----
+### **12. Navigating Social Dancing as a Beginner**
 
-## **10. From Base 2 to Base 1**
+- Reassure newcomers of the group's supportive nature.
+- Share helpful tips for maintaining rhythm and flow.
 
-- Emphasize consistent footwork and seamless transitions.
+> 💡 **Clara's Tip:** Remind them that even simple steps constitute dancing and offer coping mechanisms for complex moves.
 
----
+- Urge them to seek guidance whenever necessary.
 
-## **11. Basic Spin (If Time Permits)**
-
-- Present the spin as a fun addition, without pressuring perfection.
-  
-> 💡 **Clara's Tip:** Emphasize the circular dynamics of forro.
-
----
-
-## **12. Navigating Social Dancing for Beginners**
-
-- Reiterate that everyone was once a beginner.
-  
-> 💡 **Clara's Tip:** Encourage basic steps even at dance parties. Reinforce that their current knowledge is legitimately dancing.
-
----
-
-## **Conclusion**
-
-Congratulations on introducing another batch of enthusiasts to the joy of forro dancing! With consistent practice and patience, they're on their way to mastering the dance and contributing to our vibrant community. Always be open to feedback to refine and improve future sessions.
-
----
-
-## **Feedback Session**
+### **13. Feedback Session**
 
 Take a few minutes to gather feedback from students. This invaluable input can shape future training sessions and offers insights into the students' journey.
-
----
-
-## **Safety Reminders**
-
-- Wear appropriate footwear.
-- Ensure the dance floor is safe and free from hazards.
-
----
