@@ -2,58 +2,71 @@
 id: ENDcCZFjAW9h66eDoFg7I
 title: Teaching Forró
 desc: ''
-updated: 1698520550078
+updated: 1698521702795
 created: 1631921362276
 nav_exclude_children: false
 ---
 
-## General teaching concepts
+## **General Teaching Concepts**
 
-### Maintain a positive atmosphere
+### **1. Maintaining a Positive Atmosphere**
 
-#### Strategies
+#### **Key Strategies:**
 
-- Being friendly and respectful is the most important thing—you want everyone to have a good experience.
-- Be assertive enough to maintain order and structure, but keep in mind that this is meant to be casual.
-- Introduce yourself
-- Be relaxed and casual according to your own personality, keep it on time
+- Foster a friendly and respectful environment to ensure everyone's positive experience.
+- Exercise assertiveness to uphold order while preserving a relaxed and casual tone.
+- Always start by introducing yourself.
+- Keep the session aligned with the scheduled time without compromising your natural teaching style.
 
-### Class organization
+---
 
-#### Strategies
+### **2. Class Organization**
 
-- Plan ahead: enough time to practice, encourage them to practice even if they stop
-- Watch videos to get ideas for moves– more relevant for advanced dancers
-- Give names to moves if they don’t have them, for reference points
+#### **Key Strategies:**
 
-### Teaching Progression
+- Pre-plan your session to incorporate ample practice time. Encourage continuous practice even during pauses.
+- Leverage videos for move inspirations, particularly for advanced dancers.
+- Designate names for unnamed moves, serving as easy reference points.
 
-#### Strategies
+---
 
-- Don’t overwhelm with explanations- focus on only 1-2 aspects at a time. Just let people try it sometimes– helps people learn, also helps you determine the most common problems, most helpful things to explain
-- Customize advice to student as you go around individually
-- Establish minimal baseline that everyone knows- start with something everyone knows/can do
-- Be fair to people who move slowly– propose new things for faster learners
-- Stop them after the familiar material and slowly add on new/complicating elements
+### **3. Teaching Progression**
 
-### Time management
+#### **Key Strategies:**
 
-#### Strategies
+- Refrain from overwhelming with details. Prioritize 1-2 key points at a time. Sometimes, letting students experiment aids learning.
+- Personalize advice while rotating among students.
+- Begin with universally known content, creating a familiar foundation.
+- Cater to varying pace: Introduce additional content for quick learners while ensuring slower students aren't left behind.
 
-- Remind people to keep practicing– build in practice time
+---
 
-### Adaptability and flexibility
+### **4. Time Management**
 
-#### Strategies
+#### **Key Strategies:**
 
-- Don’t establish a firm goal– have a progressive plan with a few points, increasingly more difficult
-- This could involve increasing expectations– perfecting technique rather than adding content; practicing at different speeds
-- Dance with people whenever possible (as lead/follow as appropriate): give customized feedback, 1-2 personalized assignments
+- Encourage continuous practice and allocate dedicated practice intervals.
 
-### Knowing how to address common problems
-  
-- Explain from different angles; your explanation will need to be adapted if people are not getting it;
-- If one person is lagging behind and not getting it/ people come in late: Find the first basic thing they are struggling with, give them an individual assignment; positive reinforcement/ celebrate small wins; encourage people to teach each other
-- Not enough leads/follows: Have something in your back pocket that is lead or follow specific. Challenge people to switch roles. Shuffle around instructors.
-- If someone really wants to be in a different level than they should be: ????
+---
+
+### **5. Adaptability and Flexibility**
+
+#### **Key Strategies:**
+
+- Avoid rigid objectives. Instead, have a scalable plan with incrementally challenging milestones.
+- Introduce challenges progressively: Focus on refining techniques over content addition; experiment with tempo variations.
+- Engage in dance sessions with students (leading/following) to offer tailored feedback and assign 1-2 individual tasks.
+
+---
+
+### **6. Addressing Common Challenges**
+
+#### **Key Strategies:**
+
+- Adapt explanations when faced with comprehension gaps. Multiple perspectives often help.
+- For struggling individuals or late-comers: Identify their primary challenge, allocate a specific task, and celebrate their progress. Encourage peer teaching.
+- Counterbalance lead/follow discrepancies: Prepare role-specific content, motivate role-reversal, or reallocate volunteers.
+- If someone really wants to be in a different level than they should be: [Needs Solution]
 - There’s nothing that can *significantly* go wrong- roll with it, try your best; you can always openly communicate with the group, tell them it isn’t going to plan, laugh about it
+
+---
