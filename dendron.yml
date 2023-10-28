@@ -89,7 +89,7 @@ publishing:
     assetsPrefix: /FFA-notes
     copyAssets: true
     siteHierarchies:
-        - root
+        - teaching
     enableSiteLastModified: true
     siteRootDir: docs
     siteUrl: https://cemyld.github.io
