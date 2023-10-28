@@ -2,7 +2,7 @@
 id: KboSDNpIShkOlDCJuWvZa
 title: Newcomers
 desc: ''
-updated: 1698522780356
+updated: 1698522839458
 created: 1698521480041
 ---
 
@@ -35,18 +35,18 @@ This guide aims to provide instructors with a structured approach to introducing
 
 - Connect it to the marching movement but with slight variations in footwork.
 
-> 💡 **Clara's Tip:** Chant "forward and back, back and forward" as guidance.
-
 - Dance in front of them for visual clarity, then observe if they can replicate independently.
+
+> 💡 **Clara's Tip:** Chant "forward and back, back and forward" as guidance.
 
 ### **5. Delve into the Concept of Leading/Following**
 
 - Understand that this concept might be new for some.
 - In basic terms: leaders suggest moves, followers execute.
 
-> 💡 **Clara's Tip:** Initially explain the traditional roles (men lead, women follow), but emphasize our group's flexibility regarding roles.
-
 - Recommend newcomers to stick to one role initially to avoid confusion.
+
+> 💡 **Clara's Tip:** Initially explain the traditional roles (men lead, women follow), but emphasize our group's flexibility regarding roles.
 
 ### **6. Introduce the Base 1 Hold**
 
@@ -75,9 +75,9 @@ This guide aims to provide instructors with a structured approach to introducing
 
 - Point out the specific moments for transitions.
 
-> 💡 **Clara's Tip:** Aid with counting and stopping cues.
-
 - Breakdown simultaneous movements for clearer understanding.
+
+> 💡 **Clara's Tip:** Aid with counting and stopping cues.
 
 ### **10. Transition from Base 2 to Base 1**
 
@@ -94,9 +94,9 @@ This guide aims to provide instructors with a structured approach to introducing
 - Reassure newcomers of the group's supportive nature.
 - Share helpful tips for maintaining rhythm and flow.
 
-> 💡 **Clara's Tip:** Remind them that even simple steps constitute dancing and offer coping mechanisms for complex moves.
-
 - Urge them to seek guidance whenever necessary.
+
+> 💡 **Clara's Tip:** Remind them that even simple steps constitute dancing and offer coping mechanisms for complex moves.
 
 ### **13. Feedback Session**
 
