@@ -1,0 +1,69 @@
+{
+  "roots": [
+    {
+      "key": "ENDcCZFjAW9h66eDoFg7I",
+      "title": "Teaching Forró",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "xe9he5n7f4djxvzvrgit9vl",
+          "title": "Advanced",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "6wd5va68dyfmiklakwozwd2",
+          "title": "Beginners",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "fgf1gpm1fdim2ab0vqeunbz",
+          "title": "Intermediate",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "KboSDNpIShkOlDCJuWvZa",
+          "title": "Newcomers",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "osj45781xslpmrijzlo0dwp",
+              "title": "Cem's Method Of Newcomer Teaching",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "ENDcCZFjAW9h66eDoFg7I": null,
+    "KboSDNpIShkOlDCJuWvZa": "ENDcCZFjAW9h66eDoFg7I",
+    "osj45781xslpmrijzlo0dwp": "KboSDNpIShkOlDCJuWvZa",
+    "fgf1gpm1fdim2ab0vqeunbz": "ENDcCZFjAW9h66eDoFg7I",
+    "6wd5va68dyfmiklakwozwd2": "ENDcCZFjAW9h66eDoFg7I",
+    "xe9he5n7f4djxvzvrgit9vl": "ENDcCZFjAW9h66eDoFg7I"
+  }
+}

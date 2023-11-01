@@ -1,0 +1,684 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1698812561068,
+      "created": 1698812561068,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "ENDcCZFjAW9h66eDoFg7I": {
+      "id": "ENDcCZFjAW9h66eDoFg7I",
+      "title": "Teaching Forró",
+      "desc": "",
+      "updated": 1698522008032,
+      "created": 1698521702795,
+      "nav_exclude_children": false,
+      "custom": {
+        "nav_exclude_children": false,
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "teaching",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "972aeaf91d05f420aa6b2e4d67fa5002",
+      "links": [],
+      "anchors": {
+        "general-teaching-concepts": {
+          "type": "header",
+          "text": "General Teaching Concepts",
+          "value": "general-teaching-concepts",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "1-maintaining-a-positive-atmosphere": {
+          "type": "header",
+          "text": "1. Maintaining a Positive Atmosphere",
+          "value": "1-maintaining-a-positive-atmosphere",
+          "line": 11,
+          "column": 0,
+          "depth": 3
+        },
+        "key-strategies": {
+          "type": "header",
+          "text": "Key Strategies:",
+          "value": "key-strategies",
+          "line": 13,
+          "column": 0,
+          "depth": 4
+        },
+        "2-class-organization": {
+          "type": "header",
+          "text": "2. Class Organization",
+          "value": "2-class-organization",
+          "line": 22,
+          "column": 0,
+          "depth": 3
+        },
+        "key-strategies-1": {
+          "type": "header",
+          "text": "Key Strategies:",
+          "value": "key-strategies-1",
+          "line": 24,
+          "column": 0,
+          "depth": 4
+        },
+        "3-teaching-progression": {
+          "type": "header",
+          "text": "3. Teaching Progression",
+          "value": "3-teaching-progression",
+          "line": 32,
+          "column": 0,
+          "depth": 3
+        },
+        "key-strategies-2": {
+          "type": "header",
+          "text": "Key Strategies:",
+          "value": "key-strategies-2",
+          "line": 34,
+          "column": 0,
+          "depth": 4
+        },
+        "4-time-management": {
+          "type": "header",
+          "text": "4. Time Management",
+          "value": "4-time-management",
+          "line": 43,
+          "column": 0,
+          "depth": 3
+        },
+        "key-strategies-3": {
+          "type": "header",
+          "text": "Key Strategies:",
+          "value": "key-strategies-3",
+          "line": 45,
+          "column": 0,
+          "depth": 4
+        },
+        "5-adaptability-and-flexibility": {
+          "type": "header",
+          "text": "5. Adaptability and Flexibility",
+          "value": "5-adaptability-and-flexibility",
+          "line": 51,
+          "column": 0,
+          "depth": 3
+        },
+        "key-strategies-4": {
+          "type": "header",
+          "text": "Key Strategies:",
+          "value": "key-strategies-4",
+          "line": 53,
+          "column": 0,
+          "depth": 4
+        },
+        "6-addressing-common-challenges": {
+          "type": "header",
+          "text": "6. Addressing Common Challenges",
+          "value": "6-addressing-common-challenges",
+          "line": 61,
+          "column": 0,
+          "depth": 3
+        },
+        "key-strategies-5": {
+          "type": "header",
+          "text": "Key Strategies:",
+          "value": "key-strategies-5",
+          "line": 63,
+          "column": 0,
+          "depth": 4
+        }
+      },
+      "children": [
+        "xe9he5n7f4djxvzvrgit9vl",
+        "6wd5va68dyfmiklakwozwd2",
+        "fgf1gpm1fdim2ab0vqeunbz",
+        "KboSDNpIShkOlDCJuWvZa"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "KboSDNpIShkOlDCJuWvZa": {
+      "id": "KboSDNpIShkOlDCJuWvZa",
+      "title": "Newcomers",
+      "desc": "",
+      "updated": 1698522839458,
+      "created": 1698521480041,
+      "custom": {},
+      "fname": "teaching.newcomers",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "82daacdf6950a462d8522e285f35cf4d",
+      "links": [],
+      "anchors": {
+        "introduction": {
+          "type": "header",
+          "text": "Introduction",
+          "value": "introduction",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "1-the-broader-goal": {
+          "type": "header",
+          "text": "1. The Broader Goal",
+          "value": "1-the-broader-goal",
+          "line": 15,
+          "column": 0,
+          "depth": 3
+        },
+        "2-introduction-to-forró-and-social-dancing": {
+          "type": "header",
+          "text": "2. Introduction to Forró and Social Dancing",
+          "value": "2-introduction-to-forró-and-social-dancing",
+          "line": 22,
+          "column": 0,
+          "depth": 3
+        },
+        "3-initiate-with-the-123-count-marching": {
+          "type": "header",
+          "text": "3. Initiate with the 123 Count Marching",
+          "value": "3-initiate-with-the-123-count-marching",
+          "line": 27,
+          "column": 0,
+          "depth": 3
+        },
+        "4-introduce-the-base-1-steps": {
+          "type": "header",
+          "text": "4. Introduce the Base 1 Steps",
+          "value": "4-introduce-the-base-1-steps",
+          "line": 33,
+          "column": 0,
+          "depth": 3
+        },
+        "5-delve-into-the-concept-of-leadingfollowing": {
+          "type": "header",
+          "text": "5. Delve into the Concept of Leading/Following",
+          "value": "5-delve-into-the-concept-of-leadingfollowing",
+          "line": 41,
+          "column": 0,
+          "depth": 3
+        },
+        "6-introduce-the-base-1-hold": {
+          "type": "header",
+          "text": "6. Introduce the Base 1 Hold",
+          "value": "6-introduce-the-base-1-hold",
+          "line": 50,
+          "column": 0,
+          "depth": 3
+        },
+        "7-introduce-base-2-steps": {
+          "type": "header",
+          "text": "7. Introduce Base 2 Steps",
+          "value": "7-introduce-base-2-steps",
+          "line": 60,
+          "column": 0,
+          "depth": 3
+        },
+        "8-introduce-the-base-2-hold": {
+          "type": "header",
+          "text": "8. Introduce the Base 2 Hold",
+          "value": "8-introduce-the-base-2-hold",
+          "line": 65,
+          "column": 0,
+          "depth": 3
+        },
+        "9-transition-from-base-1-to-base-2": {
+          "type": "header",
+          "text": "9. Transition from Base 1 to Base 2",
+          "value": "9-transition-from-base-1-to-base-2",
+          "line": 73,
+          "column": 0,
+          "depth": 3
+        },
+        "10-transition-from-base-2-to-base-1": {
+          "type": "header",
+          "text": "10. Transition from Base 2 to Base 1",
+          "value": "10-transition-from-base-2-to-base-1",
+          "line": 81,
+          "column": 0,
+          "depth": 3
+        },
+        "11-basic-spin-if-time-permits": {
+          "type": "header",
+          "text": "11. Basic Spin (If Time Permits)",
+          "value": "11-basic-spin-if-time-permits",
+          "line": 86,
+          "column": 0,
+          "depth": 3
+        },
+        "12-navigating-social-dancing-as-a-beginner": {
+          "type": "header",
+          "text": "12. Navigating Social Dancing as a Beginner",
+          "value": "12-navigating-social-dancing-as-a-beginner",
+          "line": 91,
+          "column": 0,
+          "depth": 3
+        },
+        "13-feedback-session": {
+          "type": "header",
+          "text": "13. Feedback Session",
+          "value": "13-feedback-session",
+          "line": 100,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "osj45781xslpmrijzlo0dwp"
+      ],
+      "parent": "ENDcCZFjAW9h66eDoFg7I",
+      "data": {}
+    },
+    "osj45781xslpmrijzlo0dwp": {
+      "id": "osj45781xslpmrijzlo0dwp",
+      "title": "Cem's Method Of Newcomer Teaching",
+      "desc": "",
+      "updated": 1698812469185,
+      "created": 1698524460439,
+      "custom": {},
+      "fname": "teaching.newcomers.cems-method",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "0d5314294c693b4f57d36884de34b12c",
+      "links": [],
+      "anchors": {
+        "introduction": {
+          "type": "header",
+          "text": "Introduction",
+          "value": "introduction",
+          "line": 7,
+          "column": 0,
+          "depth": 2
+        },
+        "1-introduction-to-forró-and-social-dancing": {
+          "type": "header",
+          "text": "1. Introduction to Forró and Social Dancing",
+          "value": "1-introduction-to-forró-and-social-dancing",
+          "line": 13,
+          "column": 0,
+          "depth": 3
+        },
+        "2-connection-through-the-embrace": {
+          "type": "header",
+          "text": "2. Connection through the embrace",
+          "value": "2-connection-through-the-embrace",
+          "line": 20,
+          "column": 0,
+          "depth": 3
+        },
+        "3-side-to-side-step-balanço": {
+          "type": "header",
+          "text": "3. Side-to-side step (Balanço)",
+          "value": "3-side-to-side-step-balanço",
+          "line": 28,
+          "column": 0,
+          "depth": 3
+        },
+        "3-side-to-side-step-continuedbalanço": {
+          "type": "header",
+          "text": "3. Side-to-side step Continued(Balanço)",
+          "value": "3-side-to-side-step-continuedbalanço",
+          "line": 37,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "KboSDNpIShkOlDCJuWvZa",
+      "data": {}
+    },
+    "fgf1gpm1fdim2ab0vqeunbz": {
+      "id": "fgf1gpm1fdim2ab0vqeunbz",
+      "title": "Intermediate",
+      "desc": "",
+      "updated": 1698519891309,
+      "created": 1698519891309,
+      "custom": {},
+      "fname": "teaching.intermediate",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "d0671d2e3eefe637c50b4a3691a02352",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ENDcCZFjAW9h66eDoFg7I",
+      "data": {}
+    },
+    "6wd5va68dyfmiklakwozwd2": {
+      "id": "6wd5va68dyfmiklakwozwd2",
+      "title": "Beginners",
+      "desc": "",
+      "updated": 1698519884737,
+      "created": 1698519884737,
+      "custom": {},
+      "fname": "teaching.beginners",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f980a9712e8b9721e5f3e6194be50146",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ENDcCZFjAW9h66eDoFg7I",
+      "data": {}
+    },
+    "xe9he5n7f4djxvzvrgit9vl": {
+      "id": "xe9he5n7f4djxvzvrgit9vl",
+      "title": "Advanced",
+      "desc": "",
+      "updated": 1698519897292,
+      "created": 1698519897292,
+      "custom": {},
+      "fname": "teaching.advanced",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "97713d79324f49bfe04acc864d6e50aa",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ENDcCZFjAW9h66eDoFg7I",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "ENDcCZFjAW9h66eDoFg7I",
+      "title": "Teaching Forró",
+      "desc": "",
+      "updated": 1698522008032,
+      "created": 1698521702795,
+      "nav_exclude_children": false,
+      "custom": {
+        "nav_exclude_children": false,
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "teaching",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "972aeaf91d05f420aa6b2e4d67fa5002",
+      "links": [],
+      "anchors": {
+        "general-teaching-concepts": {
+          "type": "header",
+          "text": "General Teaching Concepts",
+          "value": "general-teaching-concepts",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "1-maintaining-a-positive-atmosphere": {
+          "type": "header",
+          "text": "1. Maintaining a Positive Atmosphere",
+          "value": "1-maintaining-a-positive-atmosphere",
+          "line": 11,
+          "column": 0,
+          "depth": 3
+        },
+        "key-strategies": {
+          "type": "header",
+          "text": "Key Strategies:",
+          "value": "key-strategies",
+          "line": 13,
+          "column": 0,
+          "depth": 4
+        },
+        "2-class-organization": {
+          "type": "header",
+          "text": "2. Class Organization",
+          "value": "2-class-organization",
+          "line": 22,
+          "column": 0,
+          "depth": 3
+        },
+        "key-strategies-1": {
+          "type": "header",
+          "text": "Key Strategies:",
+          "value": "key-strategies-1",
+          "line": 24,
+          "column": 0,
+          "depth": 4
+        },
+        "3-teaching-progression": {
+          "type": "header",
+          "text": "3. Teaching Progression",
+          "value": "3-teaching-progression",
+          "line": 32,
+          "column": 0,
+          "depth": 3
+        },
+        "key-strategies-2": {
+          "type": "header",
+          "text": "Key Strategies:",
+          "value": "key-strategies-2",
+          "line": 34,
+          "column": 0,
+          "depth": 4
+        },
+        "4-time-management": {
+          "type": "header",
+          "text": "4. Time Management",
+          "value": "4-time-management",
+          "line": 43,
+          "column": 0,
+          "depth": 3
+        },
+        "key-strategies-3": {
+          "type": "header",
+          "text": "Key Strategies:",
+          "value": "key-strategies-3",
+          "line": 45,
+          "column": 0,
+          "depth": 4
+        },
+        "5-adaptability-and-flexibility": {
+          "type": "header",
+          "text": "5. Adaptability and Flexibility",
+          "value": "5-adaptability-and-flexibility",
+          "line": 51,
+          "column": 0,
+          "depth": 3
+        },
+        "key-strategies-4": {
+          "type": "header",
+          "text": "Key Strategies:",
+          "value": "key-strategies-4",
+          "line": 53,
+          "column": 0,
+          "depth": 4
+        },
+        "6-addressing-common-challenges": {
+          "type": "header",
+          "text": "6. Addressing Common Challenges",
+          "value": "6-addressing-common-challenges",
+          "line": 61,
+          "column": 0,
+          "depth": 3
+        },
+        "key-strategies-5": {
+          "type": "header",
+          "text": "Key Strategies:",
+          "value": "key-strategies-5",
+          "line": 63,
+          "column": 0,
+          "depth": 4
+        }
+      },
+      "children": [
+        "xe9he5n7f4djxvzvrgit9vl",
+        "6wd5va68dyfmiklakwozwd2",
+        "fgf1gpm1fdim2ab0vqeunbz",
+        "KboSDNpIShkOlDCJuWvZa"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n## **General Teaching Concepts**\n\n### **1. Maintaining a Positive Atmosphere**\n\n#### **Key Strategies:**\n\n- Foster a friendly and respectful environment to ensure everyone's positive experience.\n- Exercise assertiveness to uphold order while preserving a relaxed and casual tone.\n- Always start by introducing yourself.\n- Keep the session aligned with the scheduled time without compromising your natural teaching style.\n\n---\n\n### **2. Class Organization**\n\n#### **Key Strategies:**\n\n- Pre-plan your session to incorporate ample practice time. Encourage continuous practice even during pauses.\n- Leverage videos for move inspirations, particularly for advanced dancers.\n- Designate names for unnamed moves, serving as easy reference points.\n\n---\n\n### **3. Teaching Progression**\n\n#### **Key Strategies:**\n\n- Refrain from overwhelming with details. Prioritize 1-2 key points at a time. Sometimes, letting students experiment aids learning.\n- Personalize advice while rotating among students.\n- Begin with universally known content, creating a familiar foundation.\n- Cater to varying pace: Introduce additional content for quick learners while ensuring slower students aren't left behind.\n\n---\n\n### **4. Time Management**\n\n#### **Key Strategies:**\n\n- Encourage continuous practice and allocate dedicated practice intervals.\n\n---\n\n### **5. Adaptability and Flexibility**\n\n#### **Key Strategies:**\n\n- Avoid rigid objectives. Instead, have a scalable plan with incrementally challenging milestones.\n- Introduce challenges progressively: Focus on refining techniques over content addition; experiment with tempo variations.\n- Engage in dance sessions with students (leading/following) to offer tailored feedback and assign 1-2 individual tasks.\n\n---\n\n### **6. Addressing Common Challenges**\n\n#### **Key Strategies:**\n\n- Adapt explanations when faced with comprehension gaps. Multiple perspectives often help.\n- For struggling individuals or late-comers: Identify their primary challenge, allocate a specific task, and celebrate their progress. Encourage peer teaching.\n- Counterbalance lead/follow discrepancies: Prepare role-specific content, motivate role-reversal, or reallocate volunteers.\n- If someone really wants to be in a different level than they should be: [Needs Solution]\n- There’s nothing that can *significantly* go wrong- roll with it, try your best; you can always openly communicate with the group, tell them it isn’t going to plan, laugh about it\n\n---\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "ENDcCZFjAW9h66eDoFg7I",
+    "title": "Teaching Forró",
+    "desc": "",
+    "updated": 1698522008032,
+    "created": 1698521702795,
+    "nav_exclude_children": false,
+    "custom": {
+      "nav_exclude_children": false,
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "teaching",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "972aeaf91d05f420aa6b2e4d67fa5002",
+    "links": [],
+    "anchors": {
+      "general-teaching-concepts": {
+        "type": "header",
+        "text": "General Teaching Concepts",
+        "value": "general-teaching-concepts",
+        "line": 9,
+        "column": 0,
+        "depth": 2
+      },
+      "1-maintaining-a-positive-atmosphere": {
+        "type": "header",
+        "text": "1. Maintaining a Positive Atmosphere",
+        "value": "1-maintaining-a-positive-atmosphere",
+        "line": 11,
+        "column": 0,
+        "depth": 3
+      },
+      "key-strategies": {
+        "type": "header",
+        "text": "Key Strategies:",
+        "value": "key-strategies",
+        "line": 13,
+        "column": 0,
+        "depth": 4
+      },
+      "2-class-organization": {
+        "type": "header",
+        "text": "2. Class Organization",
+        "value": "2-class-organization",
+        "line": 22,
+        "column": 0,
+        "depth": 3
+      },
+      "key-strategies-1": {
+        "type": "header",
+        "text": "Key Strategies:",
+        "value": "key-strategies-1",
+        "line": 24,
+        "column": 0,
+        "depth": 4
+      },
+      "3-teaching-progression": {
+        "type": "header",
+        "text": "3. Teaching Progression",
+        "value": "3-teaching-progression",
+        "line": 32,
+        "column": 0,
+        "depth": 3
+      },
+      "key-strategies-2": {
+        "type": "header",
+        "text": "Key Strategies:",
+        "value": "key-strategies-2",
+        "line": 34,
+        "column": 0,
+        "depth": 4
+      },
+      "4-time-management": {
+        "type": "header",
+        "text": "4. Time Management",
+        "value": "4-time-management",
+        "line": 43,
+        "column": 0,
+        "depth": 3
+      },
+      "key-strategies-3": {
+        "type": "header",
+        "text": "Key Strategies:",
+        "value": "key-strategies-3",
+        "line": 45,
+        "column": 0,
+        "depth": 4
+      },
+      "5-adaptability-and-flexibility": {
+        "type": "header",
+        "text": "5. Adaptability and Flexibility",
+        "value": "5-adaptability-and-flexibility",
+        "line": 51,
+        "column": 0,
+        "depth": 3
+      },
+      "key-strategies-4": {
+        "type": "header",
+        "text": "Key Strategies:",
+        "value": "key-strategies-4",
+        "line": 53,
+        "column": 0,
+        "depth": 4
+      },
+      "6-addressing-common-challenges": {
+        "type": "header",
+        "text": "6. Addressing Common Challenges",
+        "value": "6-addressing-common-challenges",
+        "line": 61,
+        "column": 0,
+        "depth": 3
+      },
+      "key-strategies-5": {
+        "type": "header",
+        "text": "Key Strategies:",
+        "value": "key-strategies-5",
+        "line": 63,
+        "column": 0,
+        "depth": 4
+      }
+    },
+    "children": [
+      "xe9he5n7f4djxvzvrgit9vl",
+      "6wd5va68dyfmiklakwozwd2",
+      "fgf1gpm1fdim2ab0vqeunbz",
+      "KboSDNpIShkOlDCJuWvZa"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n## **General Teaching Concepts**\n\n### **1. Maintaining a Positive Atmosphere**\n\n#### **Key Strategies:**\n\n- Foster a friendly and respectful environment to ensure everyone's positive experience.\n- Exercise assertiveness to uphold order while preserving a relaxed and casual tone.\n- Always start by introducing yourself.\n- Keep the session aligned with the scheduled time without compromising your natural teaching style.\n\n---\n\n### **2. Class Organization**\n\n#### **Key Strategies:**\n\n- Pre-plan your session to incorporate ample practice time. Encourage continuous practice even during pauses.\n- Leverage videos for move inspirations, particularly for advanced dancers.\n- Designate names for unnamed moves, serving as easy reference points.\n\n---\n\n### **3. Teaching Progression**\n\n#### **Key Strategies:**\n\n- Refrain from overwhelming with details. Prioritize 1-2 key points at a time. Sometimes, letting students experiment aids learning.\n- Personalize advice while rotating among students.\n- Begin with universally known content, creating a familiar foundation.\n- Cater to varying pace: Introduce additional content for quick learners while ensuring slower students aren't left behind.\n\n---\n\n### **4. Time Management**\n\n#### **Key Strategies:**\n\n- Encourage continuous practice and allocate dedicated practice intervals.\n\n---\n\n### **5. Adaptability and Flexibility**\n\n#### **Key Strategies:**\n\n- Avoid rigid objectives. Instead, have a scalable plan with incrementally challenging milestones.\n- Introduce challenges progressively: Focus on refining techniques over content addition; experiment with tempo variations.\n- Engage in dance sessions with students (leading/following) to offer tailored feedback and assign 1-2 individual tasks.\n\n---\n\n### **6. Addressing Common Challenges**\n\n#### **Key Strategies:**\n\n- Adapt explanations when faced with comprehension gaps. Multiple perspectives often help.\n- For struggling individuals or late-comers: Identify their primary challenge, allocate a specific task, and celebrate their progress. Encourage peer teaching.\n- Counterbalance lead/follow discrepancies: Prepare role-specific content, motivate role-reversal, or reallocate volunteers.\n- If someone really wants to be in a different level than they should be: [Needs Solution]\n- There’s nothing that can *significantly* go wrong- roll with it, try your best; you can always openly communicate with the group, tell them it isn’t going to plan, laugh about it\n\n---\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}
